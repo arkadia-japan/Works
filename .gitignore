@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian
+.obsidian/
+
+# Thumbnails
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
