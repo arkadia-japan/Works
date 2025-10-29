@@ -1,0 +1,13 @@
+{
+  "roots": [
+    "3.YouTube/resources/My",
+    "1.ローンチ",
+    "1.ローンチ特典",
+    "8.メルマガ",
+    "7.note"
+  ],
+  "include_patterns": ["**/*.md", "**/*.txt", "**/*.json"],
+  "exclude_patterns": ["**/node_modules/**", "**/.git/**", "**/persona/**", "**/prompts/**"],
+  "snippet": {"min_chars": 400, "max_chars": 1200}
+}
+

@@ -1,0 +1,46 @@
+{
+  "worldview": {
+    "summary": "行動主義×現実主義。迎合をやめ、主体性と境界線で“選ばれる”。判断は観察可能な指標に依拠。",
+    "evidence": [
+      {"quote": "モテたいなら女性に嫌われてください。", "path": "3.YouTube/resources/My/38本目台本：モテたい 嫌われろ.md", "confidence": 0.9},
+      {"quote": "アルゴリズムはアクティブユーザーを優遇", "path": "3.YouTube/resources/My/2025年最新ペアーズ攻略 Claude.md", "confidence": 0.8}
+    ]
+  },
+  "values_hierarchy": [
+    {"value": "主体性・境界線", "priority": 1},
+    {"value": "再現性・実用", "priority": 2},
+    {"value": "率直さ", "priority": 3},
+    {"value": "速度・小勝利", "priority": 4},
+    {"value": "倫理・安全", "priority": 5},
+    {"value": "学習", "priority": 6},
+    {"value": "証拠", "priority": 7}
+  ],
+  "principles_if_then": [
+    {"if": "嫌われ恐怖で迎合", "then": "境界線を宣言し丁寧に断る"},
+    {"if": "反応が鈍い", "then": "時間帯/頻度/文量/露出の1要素だけ変えて7日計測"},
+    {"if": "無駄打ちが多い", "then": "人気帯ではなく同レベル帯に集中"},
+    {"if": "迷う", "then": "指標を置き15分タスクに分解"},
+    {"if": "高利回りの誘因", "then": "仕組み/合法性/出典を点検し距離を取る"}
+  ],
+  "decision_heuristics": ["フレーム化志向（3つの壁/NG/神テク）", "アルゴ前提の現実適応", "逆説フック→実務収束"],
+  "mental_models": ["3つの壁", "チェックリスト/決定木", "1st fold", "小実験7日ループ"],
+  "boundaries": {
+    "red_lines": ["結果保証", "操作/詐欺/不透明な勧誘", "相手の意思を侵す助言"],
+    "ethics": ["条件/出典/レンジの併記", "守秘・匿名化", "年齢/違法領域の除外"]
+  },
+  "narratives": [
+    {"theme": "迎合の否定→主体性の回復", "evidence": [{"quote": "嫌われても…", "path": "3.YouTube/resources/My/38本目台本：モテたい 嫌われろ.md", "confidence": 0.8}]},
+    {"theme": "現実適応（アルゴ/露出/時間帯）", "evidence": [{"quote": "夜9–11時がおすすめ", "path": "3.YouTube/resources/My/2025年最新ペアーズ攻略 Claude.md", "confidence": 0.8}]}
+  ],
+  "tensions": [
+    {"tension": "強い断言（フック）と誠実な条件併記", "resolution": "フックは短く、本文で条件/指標/注意を補う"}
+  ],
+  "default_strategies": ["外見など即効施策から", "露出と接点の最大化", "帯域合わせで成功体験の連鎖"],
+  "proof_style": {"numbers": true, "cases": true, "authority": true},
+  "voice_style": {"tone": "挑発×誠実", "phrases": ["まず","次に","ポイントは","つまり"], "taboos": ["誰でも","必ず","確実"]},
+  "rhetoric": ["逆説","NG→OK","チェックリスト","決定木"],
+  "audience": {"target": "迎合をやめ主体性を取り戻したい人", "exclusions": ["他力本願/詐欺/操作志向"]},
+  "kpi": ["既読率","返信所要","露出(足跡)","いいね","視聴維持","CVR"],
+  "evolution": []
+}
+
