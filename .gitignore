@@ -12,3 +12,6 @@
 # Windows
 Thumbs.db
 Desktop.ini
+
+# Local AI configs
+.claude/
